@@ -373,12 +373,3 @@
 
 
 }
-
-/* 태블릿*/
-@media (min-width: 768px) and (max-width: 1024px) {}
-
-
-/* 큰 화면*/
-@media (min-width: 1440px) {
-    /* 큰 화면 전용 스타일 */
-}
